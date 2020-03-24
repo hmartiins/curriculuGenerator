@@ -1,0 +1,16 @@
+html{background-color: rgba(238, 238, 238, 0.842);}
+.container-fluid{
+    height: 410vh;
+    background-color: rgba(238, 238, 238, 0.842);
+}
+.frmPrincipal{
+    height: 360vh;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 14px;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+}
+h3{
+    text-align: center;
+}
